@@ -22,7 +22,7 @@ const StudentAssistant = () => {
 
     try {
       // Connect to the Backend API
-      const res = await axios.post('http://localhost:5000/api/ai/generate', {
+      const res = await axios.post('https://studentassistant-337v.onrender.com/api/ai/generate', {
         prompt: input,
         mode: mode
       });
