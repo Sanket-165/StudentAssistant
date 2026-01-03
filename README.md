@@ -1,12 +1,12 @@
-# [Project Name: e.g., AI Prompt Generator Backend]
+
 
 ## 📖 Project Overview
-A Node.js backend service designed to integrate with [OpenAI/Gemini/Anthropic] to generate intelligent, context-aware responses. This service handles user requests, constructs optimized prompts based on selected modes, and communicates with the AI provider to return structured data.
+A Node.js backend service designed to integrate with Gemini to generate intelligent, context-aware responses. This service handles user requests, constructs optimized prompts based on selected modes, and communicates with the AI provider to return structured data.
 
 ## 🚀 Tech Stack
 * **Runtime:** Node.js
 * **Framework:** Express.js (or specify your framework)
-* **AI Integration:** [e.g., OpenAI API / Google Gemini API]
+* **AI Integration:** Google Gemini API
 * **Deployment:** Render
 
 ---
